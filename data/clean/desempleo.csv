@@ -1,0 +1,799 @@
+"country_name","country_code","anio","tasa de desempleo"
+"Aruba","ABW",2000,NA
+"Aruba","ABW",2010,NA
+"Aruba","ABW",2023,NA
+NA,"AFE",2000,7.78831690275509
+NA,"AFE",2010,7.40306130661224
+NA,"AFE",2023,7.80636542181197
+"Afganistán","AFG",2000,7.935
+"Afganistán","AFG",2010,7.753
+"Afganistán","AFG",2023,13.991
+NA,"AFW",2000,4.55111905984559
+NA,"AFW",2010,3.9915945374515
+NA,"AFW",2023,3.27724546605141
+"Angola","AGO",2000,16.682
+"Angola","AGO",2010,16.618
+"Angola","AGO",2023,14.537
+"Albania","ALB",2000,19.023
+"Albania","ALB",2010,14.086
+"Albania","ALB",2023,10.108
+"Andorra","AND",2000,NA
+"Andorra","AND",2010,NA
+"Andorra","AND",2023,NA
+"El mundo árabe","ARB",2000,12.6274870577085
+"El mundo árabe","ARB",2010,9.57747395203384
+"El mundo árabe","ARB",2023,9.58139714330624
+"Emiratos Árabes Unidos","ARE",2000,2.25
+"Emiratos Árabes Unidos","ARE",2010,2.811
+"Emiratos Árabes Unidos","ARE",2023,2.151
+"Argentina","ARG",2000,15
+"Argentina","ARG",2010,7.714
+"Argentina","ARG",2023,6.139
+"Armenia","ARM",2000,11.095
+"Armenia","ARM",2010,19.523
+"Armenia","ARM",2023,13.245
+"Samoa Americana","ASM",2000,NA
+"Samoa Americana","ASM",2010,NA
+"Samoa Americana","ASM",2023,NA
+"Antigua y Barbuda","ATG",2000,NA
+"Antigua y Barbuda","ATG",2010,NA
+"Antigua y Barbuda","ATG",2023,NA
+"Australia","AUS",2000,6.288
+"Australia","AUS",2010,5.214
+"Australia","AUS",2023,3.668
+"Austria","AUT",2000,4.687
+"Austria","AUT",2010,4.883
+"Austria","AUT",2023,5.264
+"Azerbaiyán","AZE",2000,11.78
+"Azerbaiyán","AZE",2010,5.63
+"Azerbaiyán","AZE",2023,5.636
+"Burundi","BDI",2000,3.129
+"Burundi","BDI",2010,1.616
+"Burundi","BDI",2023,0.921
+"Bélgica","BEL",2000,6.586
+"Bélgica","BEL",2010,8.293
+"Bélgica","BEL",2023,5.528
+"Benin","BEN",2000,0.864
+"Benin","BEN",2010,1.04
+"Benin","BEN",2023,1.657
+"Burkina Faso","BFA",2000,2.679
+"Burkina Faso","BFA",2010,3.723
+"Burkina Faso","BFA",2023,5.348
+"Bangladesh","BGD",2000,3.27
+"Bangladesh","BGD",2010,3.379
+"Bangladesh","BGD",2023,4.454
+"Bulgaria","BGR",2000,16.218
+"Bulgaria","BGR",2010,10.279
+"Bulgaria","BGR",2023,4.319
+"Bahrein","BHR",2000,1.083
+"Bahrein","BHR",2010,1.13
+"Bahrein","BHR",2023,1.154
+"Bahamas","BHS",2000,7.12
+"Bahamas","BHS",2010,14.432
+"Bahamas","BHS",2023,8.643
+"Bosnia y Herzegovina","BIH",2000,25.187
+"Bosnia y Herzegovina","BIH",2010,27.312
+"Bosnia y Herzegovina","BIH",2023,10.668
+"Belarús","BLR",2000,12.224
+"Belarús","BLR",2010,6.045
+"Belarús","BLR",2023,3.461
+"Belice","BLZ",2000,10.836
+"Belice","BLZ",2010,8.416
+"Belice","BLZ",2023,8.267
+"Bermudas","BMU",2000,NA
+"Bermudas","BMU",2010,NA
+"Bermudas","BMU",2023,NA
+"Bolivia","BOL",2000,2.447
+"Bolivia","BOL",2010,2.608
+"Bolivia","BOL",2023,3.024
+"Brasil","BRA",2000,10.889
+"Brasil","BRA",2010,8.422
+"Brasil","BRA",2023,7.947
+"Barbados","BRB",2000,9.35
+"Barbados","BRB",2010,10.69
+"Barbados","BRB",2023,7.878
+"Brunei Darussalam","BRN",2000,5.459
+"Brunei Darussalam","BRN",2010,6.455
+"Brunei Darussalam","BRN",2023,5.183
+"Bhután","BTN",2000,1.66
+"Bhután","BTN",2010,3.32
+"Bhután","BTN",2023,3.126
+"Botswana","BWA",2000,15.88
+"Botswana","BWA",2010,17.86
+"Botswana","BWA",2023,23.381
+"República Centroafricana","CAF",2000,5.362
+"República Centroafricana","CAF",2010,5.291
+"República Centroafricana","CAF",2023,5.877
+"Canadá","CAN",2000,6.829
+"Canadá","CAN",2010,8.178
+"Canadá","CAN",2023,5.415
+"Europa Central y del Báltico","CEB",2000,12.1661215560372
+"Europa Central y del Báltico","CEB",2010,9.92654756624789
+"Europa Central y del Báltico","CEB",2023,4.01405105340076
+"Suiza","CHE",2000,2.658
+"Suiza","CHE",2010,4.808
+"Suiza","CHE",2023,4.043
+"Islas del Canal","CHI",2000,5.551
+"Islas del Canal","CHI",2010,7.225
+"Islas del Canal","CHI",2023,6.187
+"Chile","CHL",2000,10.491
+"Chile","CHL",2010,8.278
+"Chile","CHL",2023,9.013
+"China","CHN",2000,3.26
+"China","CHN",2010,4.53
+"China","CHN",2023,4.67
+"Côte d'Ivoire","CIV",2000,4.816
+"Côte d'Ivoire","CIV",2010,6.618
+"Côte d'Ivoire","CIV",2023,2.27
+"Camerún","CMR",2000,7.536
+"Camerún","CMR",2010,4.11
+"Camerún","CMR",2023,3.613
+"Congo, República Democrática del","COD",2000,3.234
+"Congo, República Democrática del","COD",2010,4.096
+"Congo, República Democrática del","COD",2023,4.484
+"Congo, República del","COG",2000,19.87
+"Congo, República del","COG",2010,19.345
+"Congo, República del","COG",2023,19.898
+"Colombia","COL",2000,20.52
+"Colombia","COL",2010,11.153
+"Colombia","COL",2023,9.594
+"Comoras","COM",2000,4.398
+"Comoras","COM",2010,4.248
+"Comoras","COM",2023,3.776
+"Cabo Verde","CPV",2000,13.088
+"Cabo Verde","CPV",2010,10.67
+"Cabo Verde","CPV",2023,11.971
+"Costa Rica","CRI",2000,5.08
+"Costa Rica","CRI",2010,7.171
+"Costa Rica","CRI",2023,8.325
+"Estados pequeos del Caribe","CSS",2000,11.7524596222052
+"Estados pequeos del Caribe","CSS",2010,8.78766547316244
+"Estados pequeos del Caribe","CSS",2023,7.82188402128467
+"Cuba","CUB",2000,5.45
+"Cuba","CUB",2010,2.5
+"Cuba","CUB",2023,1.719
+"Curacao","CUW",2000,NA
+"Curacao","CUW",2010,NA
+"Curacao","CUW",2023,NA
+"Islas Caimán","CYM",2000,NA
+"Islas Caimán","CYM",2010,NA
+"Islas Caimán","CYM",2023,NA
+"Chipre","CYP",2000,4.766
+"Chipre","CYP",2010,6.359
+"Chipre","CYP",2023,6.098
+"República Checa","CZE",2000,8.764
+"República Checa","CZE",2010,7.281
+"República Checa","CZE",2023,2.579
+"Alemania","DEU",2000,7.917
+"Alemania","DEU",2010,7.043
+"Alemania","DEU",2023,3.068
+"Djibouti","DJI",2000,26.664
+"Djibouti","DJI",2010,26.371
+"Djibouti","DJI",2023,26.154
+"Dominica","DMA",2000,NA
+"Dominica","DMA",2010,NA
+"Dominica","DMA",2023,NA
+"Dinamarca","DNK",2000,4.476
+"Dinamarca","DNK",2010,7.746
+"Dinamarca","DNK",2023,5.094
+"República Dominicana","DOM",2000,6.432
+"República Dominicana","DOM",2010,5.212
+"República Dominicana","DOM",2023,5.555
+"Argelia","DZA",2000,29.77
+"Argelia","DZA",2010,9.96
+"Argelia","DZA",2023,11.701
+"Asia oriental y el Pacífico (excluido altos ingresos)","EAP",2000,3.42330379281354
+"Asia oriental y el Pacífico (excluido altos ingresos)","EAP",2010,4.15545539099386
+"Asia oriental y el Pacífico (excluido altos ingresos)","EAP",2023,3.97239658895814
+"inicial del dividendo demográfico","EAR",2000,7.11472249654015
+"inicial del dividendo demográfico","EAR",2010,6.72549254045243
+"inicial del dividendo demográfico","EAR",2023,5.26002950548056
+"Asia oriental y el Pacífico","EAS",2000,3.55420828634154
+"Asia oriental y el Pacífico","EAS",2010,4.21713753627348
+"Asia oriental y el Pacífico","EAS",2023,3.85771165493103
+"Europa y Asia central (excluido altos ingresos)","ECA",2000,10.7484483274832
+"Europa y Asia central (excluido altos ingresos)","ECA",2010,9.55793535586369
+"Europa y Asia central (excluido altos ingresos)","ECA",2023,7.33312751129511
+"Europa y Asia central","ECS",2000,9.68992008060941
+"Europa y Asia central","ECS",2010,9.11862363914561
+"Europa y Asia central","ECS",2023,5.58635253535465
+"Ecuador","ECU",2000,4.8
+"Ecuador","ECU",2010,4.088
+"Ecuador","ECU",2023,3.51
+"Egipto, República Árabe de","EGY",2000,8.98
+"Egipto, República Árabe de","EGY",2010,8.757
+"Egipto, República Árabe de","EGY",2023,7.334
+"Zona del Euro","EMU",2000,9.47224221882325
+"Zona del Euro","EMU",2010,10.1735036090983
+"Zona del Euro","EMU",2023,6.55796314641263
+"Eritrea","ERI",2000,5.608
+"Eritrea","ERI",2010,5.675
+"Eritrea","ERI",2023,5.586
+"España","ESP",2000,13.785
+"España","ESP",2010,19.86
+"España","ESP",2023,12.179
+"Estonia","EST",2000,13.36
+"Estonia","EST",2010,16.707
+"Estonia","EST",2023,6.378
+"Etiopía","ETH",2000,3.5
+"Etiopía","ETH",2010,2.3
+"Etiopía","ETH",2023,3.402
+"Unión Europea","EUU",2000,9.70649119804801
+"Unión Europea","EUU",2010,9.8727209377786
+"Unión Europea","EUU",2023,6.02506580748964
+"Frágiles y situaciones de conflicto afectados","FCS",2000,5.88813224341885
+"Frágiles y situaciones de conflicto afectados","FCS",2010,5.13393632566262
+"Frágiles y situaciones de conflicto afectados","FCS",2023,5.20087833966654
+"Finlandia","FIN",2000,11.134
+"Finlandia","FIN",2010,8.394
+"Finlandia","FIN",2023,7.151
+"Fiji","FJI",2000,4.7
+"Fiji","FJI",2010,4.343
+"Fiji","FJI",2023,4.322
+"Francia","FRA",2000,10.218
+"Francia","FRA",2010,9.279
+"Francia","FRA",2023,7.335
+"Islas Feroe","FRO",2000,NA
+"Islas Feroe","FRO",2010,NA
+"Islas Feroe","FRO",2023,NA
+"Micronesia (Estados Federados de)","FSM",2000,NA
+"Micronesia (Estados Federados de)","FSM",2010,NA
+"Micronesia (Estados Federados de)","FSM",2023,NA
+"Gabón","GAB",2000,17.789
+"Gabón","GAB",2010,20.39
+"Gabón","GAB",2023,20.278
+"Reino Unido","GBR",2000,5.558
+"Reino Unido","GBR",2010,7.924
+"Reino Unido","GBR",2023,3.984
+"Georgia","GEO",2000,10.82
+"Georgia","GEO",2010,20.203
+"Georgia","GEO",2023,11.537
+"Ghana","GHA",2000,10.456
+"Ghana","GHA",2010,5.384
+"Ghana","GHA",2023,3.063
+"Gibraltar","GIB",2000,NA
+"Gibraltar","GIB",2010,NA
+"Gibraltar","GIB",2023,NA
+"Guinea","GIN",2000,4.599
+"Guinea","GIN",2010,5.097
+"Guinea","GIN",2023,5.244
+"Gambia","GMB",2000,9.787
+"Gambia","GMB",2010,9.723
+"Gambia","GMB",2023,6.479
+"Guinea-Bissau","GNB",2000,3.557
+"Guinea-Bissau","GNB",2010,3.137
+"Guinea-Bissau","GNB",2023,2.65
+"Guinea Ecuatorial","GNQ",2000,7.955
+"Guinea Ecuatorial","GNQ",2010,8.07
+"Guinea Ecuatorial","GNQ",2023,8.367
+"Grecia","GRC",2000,11.345
+"Grecia","GRC",2010,12.719
+"Grecia","GRC",2023,11.066
+"Granada","GRD",2000,NA
+"Granada","GRD",2010,NA
+"Granada","GRD",2023,NA
+"Groenlandia","GRL",2000,NA
+"Groenlandia","GRL",2010,NA
+"Groenlandia","GRL",2023,NA
+"Guatemala","GTM",2000,2.606
+"Guatemala","GTM",2010,3.497
+"Guatemala","GTM",2023,2.344
+"Guam","GUM",2000,15.32
+"Guam","GUM",2010,8.2
+"Guam","GUM",2023,5.363
+"Guyana","GUY",2000,11.93
+"Guyana","GUY",2010,11.636
+"Guyana","GUY",2023,12.025
+"Ingreso alto","HIC",2000,7.02762965490002
+"Ingreso alto","HIC",2010,8.17567133611385
+"Ingreso alto","HIC",2023,4.33866016503834
+"Hong Kong, Región Administrativa Especial","HKG",2000,4.92
+"Hong Kong, Región Administrativa Especial","HKG",2010,4.329
+"Hong Kong, Región Administrativa Especial","HKG",2023,2.949
+"Honduras","HND",2000,3.881
+"Honduras","HND",2010,4.119
+"Honduras","HND",2023,6.07
+"Países pobres muy endeudados (PPME)","HPC",2000,5.15456136215711
+"Países pobres muy endeudados (PPME)","HPC",2010,4.78976425103905
+"Países pobres muy endeudados (PPME)","HPC",2023,4.22661765181006
+"Croacia","HRV",2000,16.064
+"Croacia","HRV",2010,11.62
+"Croacia","HRV",2023,6.086
+"Haití","HTI",2000,8.454
+"Haití","HTI",2010,15.252
+"Haití","HTI",2023,14.556
+"Hungría","HUN",2000,6.563
+"Hungría","HUN",2010,11.172
+"Hungría","HUN",2023,4.107
+"Sólo BIRF","IBD",2000,6.55733674014356
+"Sólo BIRF","IBD",2010,6.39002749580693
+"Sólo BIRF","IBD",2023,5.16478080156293
+"BIRF y la AIF","IBT",2000,6.15636406177533
+"BIRF y la AIF","IBT",2010,5.90445607325616
+"BIRF y la AIF","IBT",2023,5.03556816039906
+"total de la AIF","IDA",2000,4.43736752604206
+"total de la AIF","IDA",2010,4.06419605108702
+"total de la AIF","IDA",2023,4.6258035699256
+"mezcla de la AIF","IDB",2000,3.87282545639613
+"mezcla de la AIF","IDB",2010,3.15075868914398
+"mezcla de la AIF","IDB",2023,4.41508975162298
+"Indonesia","IDN",2000,6.077
+"Indonesia","IDN",2010,5.614
+"Indonesia","IDN",2023,3.308
+"Sólo AIF","IDX",2000,4.73854637649963
+"Sólo AIF","IDX",2010,4.56611206743664
+"Sólo AIF","IDX",2023,4.74814682878326
+"Isla de Man","IMN",2000,NA
+"Isla de Man","IMN",2010,NA
+"Isla de Man","IMN",2023,NA
+"India","IND",2000,7.624
+"India","IND",2010,7.652
+"India","IND",2023,4.172
+"No clasificado","INX",2000,NA
+"No clasificado","INX",2010,NA
+"No clasificado","INX",2023,NA
+"Irlanda","IRL",2000,4.318
+"Irlanda","IRL",2010,14.534
+"Irlanda","IRL",2023,4.288
+"Irán, República Islámica del","IRN",2000,11.696
+"Irán, República Islámica del","IRN",2010,13.679
+"Irán, República Islámica del","IRN",2023,9.041
+"Iraq","IRQ",2000,8.058
+"Iraq","IRQ",2010,8.267
+"Iraq","IRQ",2023,15.447
+"Islandia","ISL",2000,1.936
+"Islandia","ISL",2010,7.564
+"Islandia","ISL",2023,3.518
+"Israel","ISR",2000,11.102
+"Israel","ISR",2010,8.48
+"Israel","ISR",2023,3.596
+"Italia","ITA",2000,10.834
+"Italia","ITA",2010,8.363
+"Italia","ITA",2023,7.627
+"Jamaica","JAM",2000,6.762
+"Jamaica","JAM",2010,7.63
+"Jamaica","JAM",2023,4.4
+"Jordania","JOR",2000,13.7
+"Jordania","JOR",2010,12.5
+"Jordania","JOR",2023,17.969
+"Japón","JPN",2000,4.748
+"Japón","JPN",2010,5.102
+"Japón","JPN",2023,2.6
+"Kazajstán","KAZ",2000,12.75
+"Kazajstán","KAZ",2010,5.77
+"Kazajstán","KAZ",2023,4.821
+"Kenya","KEN",2000,2.889
+"Kenya","KEN",2010,2.796
+"Kenya","KEN",2023,5.567
+"Kirguistán","KGZ",2000,1.858
+"Kirguistán","KGZ",2010,2.887
+"Kirguistán","KGZ",2023,3.991
+"Camboya","KHM",2000,0.744
+"Camboya","KHM",2010,0.771
+"Camboya","KHM",2023,0.225
+"Kiribati","KIR",2000,NA
+"Kiribati","KIR",2010,NA
+"Kiribati","KIR",2023,NA
+"Saint Kitts y Nevis","KNA",2000,NA
+"Saint Kitts y Nevis","KNA",2010,NA
+"Saint Kitts y Nevis","KNA",2023,NA
+"Corea, República de","KOR",2000,4.063
+"Corea, República de","KOR",2010,3.324
+"Corea, República de","KOR",2023,2.675
+"Kuwait","KWT",2000,0.8
+"Kuwait","KWT",2010,1.82
+"Kuwait","KWT",2023,2.127
+"América Latina y el Caribe (excluido altos ingresos)","LAC",2000,9.21166599301642
+"América Latina y el Caribe (excluido altos ingresos)","LAC",2010,7.13900255202872
+"América Latina y el Caribe (excluido altos ingresos)","LAC",2023,6.1015898433551
+"República Democrática Popular Lao","LAO",2000,2.046
+"República Democrática Popular Lao","LAO",2010,0.708
+"República Democrática Popular Lao","LAO",2023,1.188
+"Líbano","LBN",2000,8.603
+"Líbano","LBN",2010,6.775
+"Líbano","LBN",2023,11.543
+"Liberia","LBR",2000,2.231
+"Liberia","LBR",2010,2.266
+"Liberia","LBR",2023,2.933
+"Libia","LBY",2000,19.201
+"Libia","LBY",2010,19.276
+"Libia","LBY",2023,18.753
+"Santa Lucía","LCA",2000,16.49
+"Santa Lucía","LCA",2010,17.12
+"Santa Lucía","LCA",2023,11.092
+"América Latina y el Caribe","LCN",2000,9.461823301645
+"América Latina y el Caribe","LCN",2010,7.21088765979969
+"América Latina y el Caribe","LCN",2023,6.207431309296
+"Países menos desarrollados: clasificación de las Naciones Unidas","LDC",2000,4.69621008348711
+"Países menos desarrollados: clasificación de las Naciones Unidas","LDC",2010,4.76194435567874
+"Países menos desarrollados: clasificación de las Naciones Unidas","LDC",2023,4.94642314711997
+"Países de ingreso bajo","LIC",2000,5.42496284928014
+"Países de ingreso bajo","LIC",2010,5.46086118515155
+"Países de ingreso bajo","LIC",2023,5.29735388770517
+"Liechtenstein","LIE",2000,NA
+"Liechtenstein","LIE",2010,NA
+"Liechtenstein","LIE",2023,NA
+"Sri Lanka","LKA",2000,7.74
+"Sri Lanka","LKA",2010,4.784
+"Sri Lanka","LKA",2023,5.997
+"Países de ingreso mediano bajo","LMC",2000,6.16304525135242
+"Países de ingreso mediano bajo","LMC",2010,5.82177339714005
+"Países de ingreso mediano bajo","LMC",2023,4.41393600302162
+"Ingreso mediano y bajo","LMY",2000,5.85745437733787
+"Ingreso mediano y bajo","LMY",2010,5.83764436485052
+"Ingreso mediano y bajo","LMY",2023,5.0876774137298
+"Lesotho","LSO",2000,16.227
+"Lesotho","LSO",2010,16.113
+"Lesotho","LSO",2023,16.457
+"avanzada del dividendo demográfico","LTE",2000,5.28526433408884
+"avanzada del dividendo demográfico","LTE",2010,5.23950660656473
+"avanzada del dividendo demográfico","LTE",2023,4.80553835154898
+"Lituania","LTU",2000,15.931
+"Lituania","LTU",2010,17.814
+"Lituania","LTU",2023,6.841
+"Luxemburgo","LUX",2000,2.345
+"Luxemburgo","LUX",2010,4.423
+"Luxemburgo","LUX",2023,5.184
+"Letonia","LVA",2000,14.211
+"Letonia","LVA",2010,19.482
+"Letonia","LVA",2023,6.465
+"Región Administrativa Especial de Macao, China","MAC",2000,6.874
+"Región Administrativa Especial de Macao, China","MAC",2010,2.84
+"Región Administrativa Especial de Macao, China","MAC",2023,2.235
+"Isla de San Martín (parte francesa)","MAF",2000,NA
+"Isla de San Martín (parte francesa)","MAF",2010,NA
+"Isla de San Martín (parte francesa)","MAF",2023,NA
+"Marruecos","MAR",2000,13.58
+"Marruecos","MAR",2010,9.09
+"Marruecos","MAR",2023,9.044
+"Mónaco","MCO",2000,NA
+"Mónaco","MCO",2010,NA
+"Mónaco","MCO",2023,NA
+"República de Moldova","MDA",2000,8.539
+"República de Moldova","MDA",2010,2.937
+"República de Moldova","MDA",2023,1.555
+"Madagascar","MDG",2000,5.8
+"Madagascar","MDG",2010,4.28
+"Madagascar","MDG",2023,3.069
+"Maldivas","MDV",2000,1.97
+"Maldivas","MDV",2010,10.881
+"Maldivas","MDV",2023,4.241
+"Oriente Medio, Norte de África, Afganistán y Pakistán","MEA",2000,8.42365049272417
+"Oriente Medio, Norte de África, Afganistán y Pakistán","MEA",2010,6.85497900968114
+"Oriente Medio, Norte de África, Afganistán y Pakistán","MEA",2023,8.07886442606783
+"México","MEX",2000,2.646
+"México","MEX",2010,5.303
+"México","MEX",2023,2.765
+"Islas Marshall","MHL",2000,NA
+"Islas Marshall","MHL",2010,NA
+"Islas Marshall","MHL",2023,NA
+"Ingreso mediano","MIC",2000,5.88369075893232
+"Ingreso mediano","MIC",2010,5.8630492149064
+"Ingreso mediano","MIC",2023,5.07162252507471
+"Macedonia del Norte","MKD",2000,32.2
+"Macedonia del Norte","MKD",2010,33.135
+"Macedonia del Norte","MKD",2023,13.174
+"Malí","MLI",2000,1.414
+"Malí","MLI",2010,1.405
+"Malí","MLI",2023,2.956
+"Malta","MLT",2000,6.324
+"Malta","MLT",2010,6.847
+"Malta","MLT",2023,3.11
+"Myanmar","MMR",2000,0.717
+"Myanmar","MMR",2010,0.727
+"Myanmar","MMR",2023,3.032
+"Oriente Medio y Norte de África (excluido altos ingresos)","MNA",2000,8.72688772666045
+"Oriente Medio y Norte de África (excluido altos ingresos)","MNA",2010,7.12093020637766
+"Oriente Medio y Norte de África (excluido altos ingresos)","MNA",2023,8.91907614245528
+"Montenegro","MNE",2000,30.609
+"Montenegro","MNE",2010,19.649
+"Montenegro","MNE",2023,14.621
+"Mongolia","MNG",2000,5.993
+"Mongolia","MNG",2010,6.549
+"Mongolia","MNG",2023,5.503
+"Mariana","MNP",2000,NA
+"Mariana","MNP",2010,NA
+"Mariana","MNP",2023,NA
+"Mozambique","MOZ",2000,2.833
+"Mozambique","MOZ",2010,3.261
+"Mozambique","MOZ",2023,3.519
+"Mauritania","MRT",2000,10.033
+"Mauritania","MRT",2010,10.075
+"Mauritania","MRT",2023,10.446
+"Mauricio","MUS",2000,9.138
+"Mauricio","MUS",2010,7.654
+"Mauricio","MUS",2023,5.571
+"Malawi","MWI",2000,5.048
+"Malawi","MWI",2010,4.798
+"Malawi","MWI",2023,5.033
+"Malasia","MYS",2000,3
+"Malasia","MYS",2010,3.39
+"Malasia","MYS",2023,3.869
+"América del Norte","NAC",2000,4.27316817166147
+"América del Norte","NAC",2010,9.47758645184374
+"América del Norte","NAC",2023,3.84073751321764
+"Namibia","NAM",2000,20.3
+"Namibia","NAM",2010,22.12
+"Namibia","NAM",2023,19.365
+"Nueva Caledonia","NCL",2000,17.984
+"Nueva Caledonia","NCL",2010,13.95
+"Nueva Caledonia","NCL",2023,10.939
+"Níger","NER",2000,1.431
+"Níger","NER",2010,0.722
+"Níger","NER",2023,0.425
+"Nigeria","NGA",2000,3.963
+"Nigeria","NGA",2010,3.746
+"Nigeria","NGA",2023,3.074
+"Nicaragua","NIC",2000,7.162
+"Nicaragua","NIC",2010,7.83
+"Nicaragua","NIC",2023,4.716
+"Países Bajos","NLD",2000,2.725
+"Países Bajos","NLD",2010,4.991
+"Países Bajos","NLD",2023,3.537
+"Noruega","NOR",2000,3.458
+"Noruega","NOR",2010,3.527
+"Noruega","NOR",2023,3.572
+"Nepal","NPL",2000,10.551
+"Nepal","NPL",2010,10.554
+"Nepal","NPL",2023,10.628
+"Nauru","NRU",2000,NA
+"Nauru","NRU",2010,NA
+"Nauru","NRU",2023,NA
+"Nueva Zelandia","NZL",2000,6.13
+"Nueva Zelandia","NZL",2010,6.557
+"Nueva Zelandia","NZL",2023,3.729
+"Miembros OCDE","OED",2000,6.71539711222802
+"Miembros OCDE","OED",2010,8.51487068018885
+"Miembros OCDE","OED",2023,4.8256733081016
+"Omán","OMN",2000,4.331
+"Omán","OMN",2010,3.935
+"Omán","OMN",2023,3.176
+"Otros Estados pequeos","OSS",2000,11.0263212491537
+"Otros Estados pequeos","OSS",2010,11.1278847172681
+"Otros Estados pequeos","OSS",2023,8.42854222604094
+"Pakistán","PAK",2000,0.634
+"Pakistán","PAK",2010,0.653
+"Pakistán","PAK",2023,5.408
+"Panamá","PAN",2000,6.264
+"Panamá","PAN",2010,5.845
+"Panamá","PAN",2023,6.544
+"Perú","PER",2000,4.958
+"Perú","PER",2010,3.6
+"Perú","PER",2023,4.899
+"Filipinas","PHL",2000,3.767
+"Filipinas","PHL",2010,3.605
+"Filipinas","PHL",2023,2.222
+"Palau","PLW",2000,NA
+"Palau","PLW",2010,NA
+"Palau","PLW",2023,NA
+"Papua Nueva Guinea","PNG",2000,2.92
+"Papua Nueva Guinea","PNG",2010,2.002
+"Papua Nueva Guinea","PNG",2023,2.661
+"Polonia","POL",2000,14.928
+"Polonia","POL",2010,9.578
+"Polonia","POL",2023,2.743
+"previa al dividendo demográfico","PRE",2000,5.14246869302464
+"previa al dividendo demográfico","PRE",2010,5.09948599044902
+"previa al dividendo demográfico","PRE",2023,4.7006079328224
+"Puerto Rico (US)","PRI",2000,10.08
+"Puerto Rico (US)","PRI",2010,16.1
+"Puerto Rico (US)","PRI",2023,5.725
+"Corea, República Popular Democrática de","PRK",2000,3.05
+"Corea, República Popular Democrática de","PRK",2010,2.81
+"Corea, República Popular Democrática de","PRK",2023,2.831
+"Portugal","PRT",2000,3.806
+"Portugal","PRT",2010,10.771
+"Portugal","PRT",2023,6.509
+"Paraguay","PRY",2000,7.61
+"Paraguay","PRY",2010,4.569
+"Paraguay","PRY",2023,5.794
+"Ribera Occidental y Gaza","PSE",2000,10.625
+"Ribera Occidental y Gaza","PSE",2010,21.416
+"Ribera Occidental y Gaza","PSE",2023,NA
+"Estados pequeos de las Islas del Pacfico","PSS",2000,4.41758167634957
+"Estados pequeos de las Islas del Pacfico","PSS",2010,3.50620034965321
+"Estados pequeos de las Islas del Pacfico","PSS",2023,3.18108550777285
+"posterior al dividendo demográfico","PST",2000,6.53497084664272
+"posterior al dividendo demográfico","PST",2010,8.34475295912791
+"posterior al dividendo demográfico","PST",2023,4.46641292251013
+"Polinesia Francesa","PYF",2000,11.579
+"Polinesia Francesa","PYF",2010,12.145
+"Polinesia Francesa","PYF",2023,11.749
+"Qatar","QAT",2000,0.87
+"Qatar","QAT",2010,0.45
+"Qatar","QAT",2023,0.13
+"Rumania","ROU",2000,6.969
+"Rumania","ROU",2010,6.959
+"Rumania","ROU",2023,5.589
+"Federación de Rusia","RUS",2000,10.581
+"Federación de Rusia","RUS",2010,7.407
+"Federación de Rusia","RUS",2023,3.076
+"Rwanda","RWA",2000,11.731
+"Rwanda","RWA",2010,11.673
+"Rwanda","RWA",2023,12.352
+"Asia meridional","SAS",2000,7.20741819718825
+"Asia meridional","SAS",2010,7.18135687960395
+"Asia meridional","SAS",2023,4.30525176596245
+"Arabia Saudita","SAU",2000,4.57
+"Arabia Saudita","SAU",2010,5.55
+"Arabia Saudita","SAU",2023,4.008
+"Sudán","SDN",2000,15.608
+"Sudán","SDN",2010,15.161
+"Sudán","SDN",2023,NA
+"Senegal","SEN",2000,2.668
+"Senegal","SEN",2010,2.803
+"Senegal","SEN",2023,2.8
+"Singapur","SGP",2000,3.7
+"Singapur","SGP",2010,4.12
+"Singapur","SGP",2023,3.444
+"Islas Salomón","SLB",2000,2.45
+"Islas Salomón","SLB",2010,1.617
+"Islas Salomón","SLB",2023,1.455
+"Sierra Leona","SLE",2000,4.08
+"Sierra Leona","SLE",2010,4.413
+"Sierra Leona","SLE",2023,3.153
+"El Salvador","SLV",2000,6.96
+"El Salvador","SLV",2010,4.893
+"El Salvador","SLV",2023,2.992
+"San Marino","SMR",2000,NA
+"San Marino","SMR",2010,NA
+"San Marino","SMR",2023,NA
+"República Federal de Somalia","SOM",2000,18.98
+"República Federal de Somalia","SOM",2010,19.031
+"República Federal de Somalia","SOM",2023,18.941
+"Serbia","SRB",2000,12.6
+"Serbia","SRB",2010,19.204
+"Serbia","SRB",2023,8.268
+"África al sur del Sahara (excluido altos ingresos)","SSA",2000,6.77607559206987
+"África al sur del Sahara (excluido altos ingresos)","SSA",2010,6.44517898572217
+"África al sur del Sahara (excluido altos ingresos)","SSA",2023,6.18144809751011
+"Sudán del Sur","SSD",2000,12.325
+"Sudán del Sur","SSD",2010,12.503
+"Sudán del Sur","SSD",2023,12.477
+"África al sur del Sahara","SSF",2000,6.43551093234137
+"África al sur del Sahara","SSF",2010,5.98391462400052
+"África al sur del Sahara","SSF",2023,5.88775361694401
+"Pequeños Estados","SST",2000,10.4312985611267
+"Pequeños Estados","SST",2010,9.63635203632562
+"Pequeños Estados","SST",2023,7.66609051270784
+"Santo Tomé y Príncipe","STP",2000,14.4
+"Santo Tomé y Príncipe","STP",2010,14.626
+"Santo Tomé y Príncipe","STP",2023,9.071
+"Suriname","SUR",2000,12.983
+"Suriname","SUR",2010,7.15
+"Suriname","SUR",2023,7.631
+"República Eslovaca","SVK",2000,18.546
+"República Eslovaca","SVK",2010,14.387
+"República Eslovaca","SVK",2023,5.84
+"Eslovenia","SVN",2000,6.92
+"Eslovenia","SVN",2010,7.236
+"Eslovenia","SVN",2023,3.652
+"Suecia","SWE",2000,5.466
+"Suecia","SWE",2010,8.61
+"Suecia","SWE",2023,7.611
+"Eswatini","SWZ",2000,24.502
+"Eswatini","SWZ",2010,26.736
+"Eswatini","SWZ",2023,35.086
+"Sint Maarten (Dutch part)","SXM",2000,NA
+"Sint Maarten (Dutch part)","SXM",2010,NA
+"Sint Maarten (Dutch part)","SXM",2023,NA
+"Seychelles","SYC",2000,NA
+"Seychelles","SYC",2010,NA
+"Seychelles","SYC",2023,NA
+"República Árabe Siria","SYR",2000,9.587
+"República Árabe Siria","SYR",2010,8.61
+"República Árabe Siria","SYR",2023,13.187
+"Islas Turcas y Caicos","TCA",2000,NA
+"Islas Turcas y Caicos","TCA",2010,NA
+"Islas Turcas y Caicos","TCA",2023,NA
+"Chad","TCD",2000,0.79
+"Chad","TCD",2010,0.878
+"Chad","TCD",2023,1.074
+"Asia oriental y el Pacífico (BIRF y la AIF)","TEA",2000,3.42896287038122
+"Asia oriental y el Pacífico (BIRF y la AIF)","TEA",2010,4.17562491797747
+"Asia oriental y el Pacífico (BIRF y la AIF)","TEA",2023,3.99023937769226
+"Europa y Asia central (BIRF y la AIF)","TEC",2000,11.0252036761132
+"Europa y Asia central (BIRF y la AIF)","TEC",2010,8.68768383545242
+"Europa y Asia central (BIRF y la AIF)","TEC",2023,5.16033097228572
+"Togo","TGO",2000,4.174
+"Togo","TGO",2010,2.383
+"Togo","TGO",2023,1.948
+"Tailandia","THA",2000,2.389
+"Tailandia","THA",2010,0.622
+"Tailandia","THA",2023,0.733
+"Tayikistán","TJK",2000,4.15
+"Tayikistán","TJK",2010,11.542
+"Tayikistán","TJK",2023,11.546
+"Turkmenistán","TKM",2000,11.666
+"Turkmenistán","TKM",2010,4
+"Turkmenistán","TKM",2023,4.099
+"América Latina y el Caribe (BIRF y la AIF)","TLA",2000,9.54724386782
+"América Latina y el Caribe (BIRF y la AIF)","TLA",2010,7.2528256939654
+"América Latina y el Caribe (BIRF y la AIF)","TLA",2023,6.27705803055615
+"Timor-Leste","TLS",2000,3.477
+"Timor-Leste","TLS",2010,3.301
+"Timor-Leste","TLS",2023,1.521
+"Oriente Medio y Norte de África (BIRF y la AIF)","TMN",2000,8.71795660306332
+"Oriente Medio y Norte de África (BIRF y la AIF)","TMN",2010,7.04902894071952
+"Oriente Medio y Norte de África (BIRF y la AIF)","TMN",2023,8.91907614245528
+"Tonga","TON",2000,4.12
+"Tonga","TON",2010,1.513
+"Tonga","TON",2023,2.262
+"Asia meridional (BIRF y la AIF)","TSA",2000,7.20741819718825
+"Asia meridional (BIRF y la AIF)","TSA",2010,7.18135687960395
+"Asia meridional (BIRF y la AIF)","TSA",2023,4.30525176596245
+"África al sur del Sahara (BIRF y la AIF)","TSS",2000,6.43551093234137
+"África al sur del Sahara (BIRF y la AIF)","TSS",2010,5.98391462400052
+"África al sur del Sahara (BIRF y la AIF)","TSS",2023,5.88775361694401
+"Trinidad y Tobago","TTO",2000,12.1
+"Trinidad y Tobago","TTO",2010,4.033
+"Trinidad y Tobago","TTO",2023,4.21
+"Túnez","TUN",2000,14.94
+"Túnez","TUN",2010,13.049
+"Túnez","TUN",2023,15.106
+"Turquía","TUR",2000,6.495
+"Turquía","TUR",2010,11.879
+"Turquía","TUR",2023,9.388
+"Tuvalu","TUV",2000,NA
+"Tuvalu","TUV",2010,NA
+"Tuvalu","TUV",2023,NA
+"Tanzanía","TZA",2000,3.127
+"Tanzanía","TZA",2010,3.029
+"Tanzanía","TZA",2023,2.582
+"Uganda","UGA",2000,3.529
+"Uganda","UGA",2010,3.619
+"Uganda","UGA",2023,2.787
+"Ucrania","UKR",2000,11.707
+"Ucrania","UKR",2010,8.1
+"Ucrania","UKR",2023,NA
+"Ingreso mediano alto","UMC",2000,5.68997323027097
+"Ingreso mediano alto","UMC",2010,5.89375275942558
+"Ingreso mediano alto","UMC",2023,5.66241186217702
+"Uruguay","URY",2000,12.627
+"Uruguay","URY",2010,7.158
+"Uruguay","URY",2023,8.355
+"Estados Unidos","USA",2000,3.992
+"Estados Unidos","USA",2010,9.633
+"Estados Unidos","USA",2023,3.638
+"Uzbekistán","UZB",2000,12.317
+"Uzbekistán","UZB",2010,5.36
+"Uzbekistán","UZB",2023,4.46
+"San Vicente y las Granadinas","VCT",2000,20.794
+"San Vicente y las Granadinas","VCT",2010,19.966
+"San Vicente y las Granadinas","VCT",2023,18.574
+"Venezuela","VEN",2000,13.99
+"Venezuela","VEN",2010,7.112
+"Venezuela","VEN",2023,5.485
+"Islas Vírgenes Británicas","VGB",2000,NA
+"Islas Vírgenes Británicas","VGB",2010,NA
+"Islas Vírgenes Británicas","VGB",2023,NA
+"Islas Vírgenes (EE.UU.)","VIR",2000,10.546
+"Islas Vírgenes (EE.UU.)","VIR",2010,11.742
+"Islas Vírgenes (EE.UU.)","VIR",2023,12.32
+"Viet Nam","VNM",2000,2.26
+"Viet Nam","VNM",2010,1.114
+"Viet Nam","VNM",2023,1.645
+"Vanuatu","VUT",2000,8.283
+"Vanuatu","VUT",2010,4.685
+"Vanuatu","VUT",2023,5.082
+"Mundo","WLD",2000,6.12304074094227
+"Mundo","WLD",2010,6.28651108706876
+"Mundo","WLD",2023,4.91595406904832
+"Samoa","WSM",2000,4.734
+"Samoa","WSM",2010,5.621
+"Samoa","WSM",2023,4.977
+"Kosovo","XKX",2000,NA
+"Kosovo","XKX",2010,NA
+"Kosovo","XKX",2023,NA
+"Yemen, Rep. del","YEM",2000,11.557
+"Yemen, Rep. del","YEM",2010,12.779
+"Yemen, Rep. del","YEM",2023,17.091
+"Sudáfrica","ZAF",2000,22.714
+"Sudáfrica","ZAF",2010,24.683
+"Sudáfrica","ZAF",2023,32.098
+"Zambia","ZMB",2000,12.93
+"Zambia","ZMB",2010,13.19
+"Zambia","ZMB",2023,5.905
+"Zimbabwe","ZWE",2000,5.684
+"Zimbabwe","ZWE",2010,5.447
+"Zimbabwe","ZWE",2023,8.759
