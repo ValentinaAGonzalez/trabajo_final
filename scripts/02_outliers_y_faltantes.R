@@ -277,10 +277,10 @@ ggplot(PBI_crecimiento, aes(x = tasa.de.crecimiento.PBI)) +
   theme_minimal() +
   labs(title = "Histograma - Crecimiento del PBI modificado",
        x = "Tasa de crecimiento PBI (%)", y = "Frecuencia")
-
+#----------------------------------------------------------
 #Desempleo: no se remueve outliers. Explayado en el informe. 
 
-
+#----------------------------------------------------------
 #Tasa de cambio: no eliminamos outliers pero logaritmizamos. 
 tasa_de_cambio_log <- tasa_de_cambio |>
   mutate(log_tasa = log(tasa_de_cambio_oficial))
@@ -302,7 +302,7 @@ ggplot(tasa_de_cambio_log, aes(y = log_tasa)) +
     title = "Boxplot – Tasa de cambio (log transformada)",
     y = "log(Tasa de cambio oficial)"
   )
-
+#------------------------------------------------
 #Inflacion: 
 
 x <- inflacion_deflactor$tasa.de.inflacion
@@ -336,3 +336,49 @@ ggplot(inflacion_log, aes(x = inflacion_log)) +
     title = "Histograma – Inflación (log transformada)",
     x = "log(inflación)", y = "Frecuencia"
   )
+
+#Boxplot inflación logaritmizada con winzorizados 
+ggplot(inflacion_log, aes(y = inflacion_log)) +
+  geom_boxplot(fill = "steelblue") +
+  theme_minimal() +
+  labs(title = "Boxplot - Inflación")
+
+#-------------------------------------------------------
+#Gasto público:  no se remueven outliers, se winsoriza el 1% de la cola superior e inferior (P1 y P99) ya que son valores extremos y el objetivo no es estudiar outliers sino variables macro estables.
+
+#Winzorizamos gasto publico
+gasto_publico_wins <- gasto_publico %>%
+  mutate(
+    p1  = quantile(tasa.de.gasto.publico, 0.01, na.rm = TRUE),
+    p99 = quantile(tasa.de.gasto.publico, 0.99, na.rm = TRUE),
+    gasto_wins = pmin(p99, pmax(tasa.de.gasto.publico, p1))
+  ) %>%
+  select(-p1, -p99)
+
+#Histograma gasto público winsorizado
+ggplot(gasto_publico_wins, aes(x = gasto_wins)) +
+  geom_histogram(bins = 100, fill = "purple", color = "white") +
+  theme_minimal() +
+  labs(
+    title = "Histograma - Gasto público winsorizado (1% inferior y superior)",
+    x = "Tasa de crecimiento gasto público (winsorizado)",
+    y = "Frecuencia"
+  )
+
+#Boxplot gasto público winsorizado
+ggplot(gasto_publico_wins, aes(y = gasto_wins)) +
+  geom_boxplot(fill = "purple") +
+  theme_minimal() +
+  labs(
+    title = "Boxplot - Gasto público winsorizado (1% inferior y superior)",
+    y = "Tasa de crecimiento gasto público (winsorizado)"
+  )
+
+#Guardamos las bases modificadas 
+#-------------------------------
+
+write.csv(PBI_crecimiento, "data/clean/PBI_crecimiento_clean.csv", row.names = FALSE)
+write.csv(desempleo, "data/clean/desempleo_clean.csv", row.names = FALSE)
+write.csv(tasa_de_cambio_log, "data/clean/tasa_de_cambio_log.csv", row.names = FALSE)
+write.csv(inflacion_log, "data/clean/inflacion_log.csv", row.names = FALSE)
+write.csv(gasto_publico_wins, "data/clean/gasto_publico_wins.csv", row.names = FALSE)
