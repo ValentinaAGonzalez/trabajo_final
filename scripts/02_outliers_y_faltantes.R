@@ -7,6 +7,7 @@
 library(dplyr)
 library(ggplot2)
 library(psych)
+library(purrr)
 
 #Input: cargamos los datos limpios 
 
@@ -30,18 +31,37 @@ bases_juntas <- list(
 
 #variables relevantes para el analisis: inflacion,crecimiento del PBI, desempleo, gasto público, tasa de cambio oficial, anio. 
 
+resumen_dataset <- function(df) { 
+  estructura_txt <- capture.output(str(df, give.attr = FALSE))
+  
+  list(
+    estructura = estructura_txt,
+    primeras_filas = head(df, 5)
+  )
+}
 
-lapply(bases_juntas,glimpse) #vemos tipo de dato, titulos de columnas, primeras observaciones, estructura del dataset (row, columns)
+map(bases_juntas, resumen_dataset)  #vemos tipo de dato, titulos de columnas, primeras observaciones, estructura del dataset (row, columns)
 
-#datos faltantes (patrón de NA)
-lapply(bases_juntas, function(df){
-  colSums(is.na(df))
+# Datos faltantes (patrón de NA)
+na_patron <- map(bases_juntas, function(df) {
+  tibble(
+    variable = names(df),
+    NA_totales = colSums(is.na(df))
+  ) %>% filter(variable != "country_name")
 })
- 
-#porcentaje de NA
-lapply(bases_juntas, function(df){
-  colMeans(is.na(df))*100
-})
+
+na_patron #salida
+
+
+# Porcentaje de NA
+na_porcentaje <- map(bases_juntas, function(df) {
+  tibble(
+    variable = names(df),
+    porcentaje_NA = round(colMeans(is.na(df)) * 100, 2)
+  ) %>% filter(variable != "country_name")
+}) 
+
+na_porcentaje #salida
 
 #analizamos la cantidad de NA por año para ver concentración de datos faltantes
 gasto_publico %>% 
@@ -92,7 +112,7 @@ tasa_de_cambio %>%
 #===========================================================
 
 lapply(bases_juntas,function(df){
-  df %>% select(where(is.numeric)) %>% psych::describe()
+  df %>% select(where(is.numeric), -anio) %>% psych::describe()
 })  #con psych abarcamos más que con summary: n, media, desvío estándar, mediana, asimetría, curtosis, y otros datos
 
 #calculamos moda: 
@@ -102,7 +122,7 @@ moda <- function(x) {
   ux[which.max(                 #elegimos el valor más frecuente
     tabulate(match(x, ux))      #contamos cuántas veces aparece cada uno
   )]
-}
+} 
 
 moda_gasto <- moda(gasto_publico$tasa.de.gasto.publico)
 moda_PBI <- moda(PBI_crecimiento$tasa.de.crecimiento.PBI)
@@ -115,7 +135,8 @@ modas <- list(
   moda_inflacion         = moda(inflacion_deflactor$tasa.de.inflacion),
   moda_desempleo         = moda(desempleo$tasa.de.desempleo),
   moda_tasa_de_cambio    = moda(tasa_de_cambio$tasa_de_cambio_oficial)
-) #las listamos en un solo elemento
+) 
+modas #las listamos en un solo elemento y las visualizamos.
 
 #calculamos IQR
 rango_gasto <- IQR(gasto_publico$tasa.de.gasto.publico, na.rm = TRUE)
@@ -131,6 +152,7 @@ rangos_IQR <- list(
   IQR_desempleo         = IQR(desempleo$tasa.de.desempleo, na.rm = TRUE),
   IQR_tasa_de_cambio    = IQR(tasa_de_cambio$tasa_de_cambio_oficial, na.rm = TRUE)
 ) #los listamos en un solo elemento
+rangos_IQR #las listamos en un solo elemento y las visualizamos.
 
 #Distribucion de frecuencias por país (identificamos países que aportan indfo completa o incompleta)
 freq_gasto <- gasto_publico |> count(country_name, sort = TRUE)

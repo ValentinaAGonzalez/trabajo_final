@@ -37,16 +37,22 @@ df$grupo_inflacion <- factor(df$grupo_inflacion)
 #PBI: 
 shapiro_PBI_alto <- shapiro.test(df$PBI[df$grupo_inflacion == "alto"])
 shapiro_PBI_bajo <- shapiro.test(df$PBI[df$grupo_inflacion == "bajo"])
+print(shapiro_PBI_alto)
+print(shapiro_PBI_bajo)
 #ambos no normales 
 
 #Desempleo
 shapiro_des_alto <- shapiro.test(df$desempleo[df$grupo_inflacion == "alto"])
 shapiro_des_bajo <- shapiro.test(df$desempleo[df$grupo_inflacion == "bajo"])
+print(shapiro_des_alto)
+print(shapiro_des_bajo)
 #ambos no normales
 
 #Gasto publico
 shapiro_gasto_alto <- shapiro.test(df$gasto[df$grupo_inflacion == "alto"])
 shapiro_gasto_bajo <- shapiro.test(df$gasto[df$grupo_inflacion == "bajo"])
+print(shapiro_gasto_alto)
+print(shapiro_gasto_bajo)
 #ambos no normales 
 
 
