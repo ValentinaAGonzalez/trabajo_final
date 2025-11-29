@@ -11,6 +11,7 @@ library(grid)
 #seteamos tipografia: 
 font_add_google("Roboto Condensed", "roboto")
 showtext_auto()
+df_clean <- df %>% drop_na()
 
 df_med <- df_clean |>
   filter(!is.na(grupo_inflacion)) |>

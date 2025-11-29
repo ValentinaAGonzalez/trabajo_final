@@ -185,7 +185,6 @@ invisible(lapply(names(bloques), function(nm){
 
 #Los histogramas y los boxplots estan en el script 2
 
-#Es necesario re-calcular la moda? es el valor que mas se repite, y no tocamos los datos mas centrales.
 
 #EL RANGO INTERCUARTIL NO CAMBIA SI SOLO CAMBIAN LOS VALORES EXTREMOS. Se calcula P75-P25.
 #Winsorizando solo cambiamos el P1 y P99. Por ende, no deberia cambiar el IQR.
