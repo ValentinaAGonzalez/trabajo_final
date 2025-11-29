@@ -121,22 +121,31 @@ print(anova_gasto)
 
 #Gráficos de ANOVA:
 #------------------
-ggplot(df, aes(x = grupo_inflacion, y = PBI, fill = grupo_inflacion)) +
+df %>% 
+  filter(!is.na(grupo_inflacion)) %>% 
+  ggplot(aes(x = grupo_inflacion, y = PBI, fill = grupo_inflacion)) +
   geom_boxplot() +
   labs(title = "Crecimiento del PBI según nivel de inflación",
        x = "Grupo de inflación", y = "Crecimiento del PBI") +
   theme_minimal() #PBI
 
-ggplot(df, aes(x = grupo_inflacion, y = desempleo, fill = grupo_inflacion)) +
+df %>% 
+  filter(!is.na(grupo_inflacion)) %>% 
+  ggplot(aes(x = grupo_inflacion, y = desempleo, fill = grupo_inflacion)) +
   geom_boxplot() +
-  labs(title = "Desempleo según nivel de inflación",
-       x = "Grupo de inflación", y = "Tasa de desempleo") +
-  theme_minimal() #Desempleo
+  labs(
+    title = "Desempleo según nivel de inflación",
+    x = "Grupo de inflación",
+    y = "Tasa de desempleo"
+  ) +
+  theme_minimal()
 
-ggplot(df, aes(x = grupo_inflacion, y = gasto, fill = grupo_inflacion)) +
+df %>% 
+  filter(!is.na(grupo_inflacion)) %>% 
+  ggplot(aes(x = grupo_inflacion, y = gasto, fill = grupo_inflacion)) +
   geom_boxplot() +
   labs(title = "Gasto público según nivel de inflación",
        x = "Grupo de inflación", y = "Gasto público (winsorizado)") +
-  theme_minimal() #Gasto 
+  theme_minimal() #Gasto
 
 
